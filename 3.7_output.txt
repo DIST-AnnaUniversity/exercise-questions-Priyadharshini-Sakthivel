@@ -1,0 +1,504 @@
+Iteration 1
+-------------
+out -1
+d 1
+R 2
+del [ 80 112]
+[[ 80 112]]
+Iteration 1
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[ 80 112]]
+Iteration 1
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[ 80 112]]
+Iteration 1
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[ 80 112]]
+Iteration 1
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[ 80 112]]
+Iteration 1
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[ 80 112]]
+Iteration 1
+-------------
+out 1
+d -1
+R -2
+del [ 32 -48]
+[[112  64]]
+Iteration 1
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 2
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 3
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 4
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 5
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 6
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 7
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 8
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out 1
+d 1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
+Iteration 9
+-------------
+out -1
+d -1
+R 0
+del [0 0]
+[[112  64]]
